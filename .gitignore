@@ -1,0 +1,8 @@
+# Ignoring Jupyter notebooks in the notebooks folder
+/notebooks/*.ipynb
+/notebooks/.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+/models/

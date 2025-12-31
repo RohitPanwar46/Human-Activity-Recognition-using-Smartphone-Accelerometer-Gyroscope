@@ -1,0 +1,5 @@
+setup.py
+src/har.egg-info/PKG-INFO
+src/har.egg-info/SOURCES.txt
+src/har.egg-info/dependency_links.txt
+src/har.egg-info/top_level.txt
